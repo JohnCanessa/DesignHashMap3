@@ -9,7 +9,7 @@ what makes sense and what does not.
 If interest in my approach and conclusions, I invite you to
 read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/30/design-hashmap-4-of-4/
 
 Keep in mind that one of the best ways to learn is to read and experiemnt.
 
